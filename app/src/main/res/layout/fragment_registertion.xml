@@ -1,0 +1,122 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#B3000000"
+
+    tools:context="com.bedetaxi.bedetaxi.RegistertionFragment">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:id="@+id/nameTextFields"
+        android:hint="@string/nameField"
+        android:enabled="true"
+
+        android:background="@drawable/edittext_style"
+        android:textStyle="bold"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:textSize="20sp"
+
+        android:layout_above="@+id/emailTextField"
+        android:layout_marginBottom="10dp"
+        android:textColorHint="#000"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:id="@+id/emailTextField"
+        android:hint="@string/emailField"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="20dp"
+        android:enabled="true"
+        android:background="@drawable/edittext_style"
+        android:textStyle="bold"
+        android:layout_above="@+id/editText3"
+        android:layout_marginBottom="10dp"
+        android:textSize="20sp"
+
+        android:textColorHint="#000"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:id="@+id/editText3"
+        android:text="+970"
+        android:enabled="false"
+        android:layout_alignTop="@+id/phoneTextField"
+        android:background="@drawable/edittext_style"
+        android:textStyle="bold"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="20dp"
+        android:textColorHint="#000"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:id="@+id/phoneTextField"
+        android:hint="@string/phoneField"
+        android:background="@drawable/edittext_style"
+        android:phoneNumber="true"
+        android:textStyle="bold"
+        android:layout_above="@+id/textView"
+        android:layout_toEndOf="@+id/editText3"
+        android:layout_marginEnd="20dp"
+        android:textSize="20sp"
+
+        android:layout_marginBottom="15dp"
+        android:textColorHint="#000"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/goButton"
+        android:id="@+id/goButton"
+        android:onClick="goButtonClicked"
+        android:background="#FFCD00"
+        android:textStyle="bold"
+        android:textSize="20sp"
+
+        android:layout_above="@+id/textView2"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="10dp"
+         />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/termOfUsesField"
+        android:id="@+id/textView"
+        android:background="@drawable/edittext_style"
+        android:textColor="#0077C8"
+        android:paddingLeft="4dp"
+        android:gravity="center"
+        android:textSize="20sp"
+
+        android:layout_above="@+id/goButton"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginBottom="10dp"
+         />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hint1"
+        android:id="@+id/textView2"
+        android:background="@drawable/edittext_style"
+        android:textColor="#0077C8"
+        android:paddingLeft="4dp"
+        android:textSize="20sp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="29dp"
+        android:gravity="center"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"/>
+
+
+
+</RelativeLayout>

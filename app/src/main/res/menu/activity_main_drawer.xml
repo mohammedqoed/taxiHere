@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:id="@+id/Cancel">
+        <item
+            android:id="@+id/History"
+
+
+            android:title="@string/History" />
+    </group>
+    <group android:id="@+id/Home" android:checkableBehavior="single" >
+        <item
+            android:id="@+id/HomeItem"
+            android:title="@string/Home" />
+    </group>
+    <group android:id="@+id/Edit_Profile" >
+        <item
+            android:id="@+id/Edit_Profile_item"
+
+            android:title="@string/editProfile" />
+    </group>
+    <group android:id="@+id/Notifications">
+        <item
+            android:id="@+id/in_Notifications"
+            android:title="@string/Notifications" />
+    </group>
+
+    <group android:id="@+id/Support">
+        <item
+            android:id="@+id/in_Support"
+            android:title="@string/support" />
+    </group>
+
+</menu>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Biddi Taxi</string>
+    <string name="editProfile">Edit Profile</string>
+    <string name="UserName">Mohammad</string>
+    <string name="Confirm">Confirm</string>
+    <string name="FeedBack">Please Leave Your Feedback</string>
+    <string name="MoreFeed">More Feedback</string>
+    <string name="CancelMain">"You have canceled the order, Can you tell us why ? "</string>
+    <string name="Cancel1">Driver Took To Long</string>
+    <string name="Cancel2">Change My Mind</string>
+    <string name="Cancel3">I\'ve Moved To Other Taxi</string>
+    <string name="Biddi">Biddi Taxi</string>
+    <string name="CarType">Scoda</string>
+    <string name="Call">Call</string>
+    <string name="FaceBook">Connect Via Facebook</string>
+    <string name="Mobile">Connect Via Mobile Number</string>
+    <string name="nameField">Name</string>
+    <string name="hint1">This information will be displayed to assigned driver only</string>
+    <string name="phoneField">Mobile Number</string>
+    <string name="emailField">Email</string>
+    <string name="termOfUsesField">By clicking the button below, you agree to commit the term of use</string>
+    <string name="title_activity_cancel">Cancel</string>
+    <string name="goButton">GO</string>
+    <string name="action_settings">Setting</string>
+    <string name="title_activity_main">Main Page</string>
+    <string name="title_activity_main_">Main Page</string>
+    <string name="Verify1">We have sent you a verification code To</string>
+    <string name="Verify2">Please Enter The Code Below</string>
+    <string name="ErorrCode">Didn\'t get the code ?</string>
+    <string name="Re">Re-Send</string>
+    <string name="Edit">Edit</string>
+    <string name="PickChoose">pick-up</string>
+    <string name="History">My Orders</string>
+    <string name="Home">Home</string>
+    <string name="support">Support</string>
+    <string name="Notifications">Notifications</string>
+    <string name="Dest">Destination</string>
+    <string name="DestArt">Choose Your Destination</string>
+    <string name="PickArt">Choose Your Pick-Up</string>
+    <string name="DialogText">Are you sure you want to make an order form</string>
+    <string name="To">To</string>
+    <string name="DoneBar">الغاء</string>
+</resources>

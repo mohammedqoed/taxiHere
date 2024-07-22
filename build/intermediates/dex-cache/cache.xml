@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_90f95b510b87bc726ccc6e60719f4d53fe183b11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\guava\guava\18.0\guava-18.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-18.0_23ae9d619c9ad952ac11ce7bff78df802e3e98c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_5d5a2dbbff7708ceedfc3492219427a744564afa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.18.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="43a08f2cc1bc8e9678b5a1740f3b91b50ab50ac6">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.18.0_71b67c483702c99a3567ed804b5c908471cee274\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.2.2_3ba6321599d755e7664b776278c213ada21f6c9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.3.1\4d53b7d6983247af02b8fe7e4228fff555a5e828\firebase-client-jvm-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-jvm-2.3.1_e33ac2cc4a48be77a31c86fee70e923dd076a23c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\exploded-aar\com.mapzen.android\lost\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="59ed82eec8faf4e2b742531bbe49c30ad56649c3">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mapzen.android-lost-1.1.0_8fe881b8e97fc32e6b3e484cf3a56eb35fb702a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="37c922e908872dd14d68a5326731a91ecbdc7603">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_68825902e30f7326d6d963dcb999adf613c2be2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.2.0\6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c\okhttp-urlconnection-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-urlconnection-3.2.0_0c60aa7b04ef9f14c42b79280ac9be6e5ea3dd15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_3e376b8bbe25bb5323d6f941e19c6dbc36794655\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_346ff77c788b58349a9fbd73beca711ca584c286\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_176a90117ec33360853b2f5a7189156ac7bf1a3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_b68a7934331c069ec931e23e9f49ab0893b35ab9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.3.1\be29b24233711c419ce935aa0a1b12ebc49d1c9a\firebase-client-android-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-android-2.3.1_bb37ab0eb6b14b74915cf4435a44aed89b2b0362\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_ef8bf90d07a27f573935b2ac021cf5603aee7bc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_ef6d788e2fbb3dfc71760144ef45c5cd21f08fd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-sdk\4.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e0c46b307f528ecb24419c06a9f147ac1689d306">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mapbox.mapboxsdk-mapbox-android-sdk-4.1.1_d55caae5a0eba5124f1643843542924389f1931b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.gradle\caches\modules-2\files-2.1\org.xmlpull\xmlpull\1.1.3.3\9b62254da05ce6399a09164362da7b2419de63ca\xmlpull-1.1.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9b62254da05ce6399a09164362da7b2419de63ca">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\xmlpull-1.1.3.3_d9623b543251804313b187a9d774803102a962ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_293cc49e45ab9ebd1111bab00a1d89a03298e24c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_337c98bb4edf5d65b4e859f0fb0e9230802d960e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_787a72e07d42893956c51ecba436ea10c194f23d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_1e1631abbe45ef3ecd9edc96d8a0f0f372bb1c70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.0_3f36538504cc660b60b3cffc0a10b9840d39bff1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.0.1\cabf146d220dcd70a2972166cd1bfae200b97eff\adapter-rxjava-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cabf146d220dcd70a2972166cd1bfae200b97eff">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.0.1_d39305484081eac8fcb533544a01d95bdb1d7b42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-services\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="300332e42fe189da17e66b800d95893112cf9640">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mapbox.mapboxsdk-mapbox-android-services-1.0.0_239b1da54f335b579bc54948130bed4b6b6a7ab7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.2.2_84a6a073b1ceb11e1ca51ef2bdb46e15bfb91b58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.4\5fe28b9518e58819180a43a850fbc0dd24b7c050\commons-lang3-3.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.4_784425fc7380d5d3d78ad87a5df5bde6ca657ba7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-25.0.0_495ff8578fd3eec336118ddae3b4027a7a154b37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_f6b414be6bad3122c4855349fe6cd655628eb593\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.1_34a3daf92cf4643e48c4f7dd77a86fcf89491ac2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.1\27293c440d2085cde1d859528aff6e7d3b6ae40\retrofit-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="027293c440d2085cde1d859528aff6e7d3b6ae40">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.1_90fc1dbdf25987de8d289d8a60305dc363185972\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_60eceeb853811d19c1d0c1a7b38a190d043cdbfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.gradle\caches\modules-2\files-2.1\com.mapbox.mapboxsdk\mapbox-java-services\1.0.0\fe8d560c7249f1d8d2e63090f57cc506cf4aec74\mapbox-java-services-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fe8d560c7249f1d8d2e63090f57cc506cf4aec74">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\mapbox-java-services-1.0.0_91b308c6631522736b87b48b81fac4837c6454b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_cbd9f98c1bca8ec8b75caa73d4f6bf1b78f9c08e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_02c152dccef5ff54a240024da1f80c5adccc23ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.gradle\caches\modules-2\files-2.1\com.google.code.ksoap2-android\ksoap2-base\3.6.2\3b236f9a0a507bd887f2a0975a7dcec31a094493\ksoap2-base-3.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3b236f9a0a507bd887f2a0975a7dcec31a094493">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\ksoap2-base-3.6.2_b054f1698331611e394e3ac31635d51c63997c99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.1\2780d858273ce1bb90f6b12e1ef0d40f7741fca\converter-gson-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="02780d858273ce1bb90f6b12e1ef0d40f7741fca">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.1_6d237b58224173b46b4f2e69ff41702bde7c1f39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_88dd1ce8a18e7062ae7ade97dc53e7427618f662\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_4903be8c8bb2091290508cec41c1dd4520685f91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.gradle\caches\modules-2\files-2.1\net.sourceforge.kxml\kxml\2.2.4\1642506e490548d96984b8370e44257c156097f7\kxml-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1642506e490548d96984b8370e44257c156097f7">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\kxml-2.2.4_e37c8a2c2be2f293ee0707abe9a8e65b0414a5c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_07dcb1aeccfde1def6d0c966f8a541c2018c62e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_a2ce464aedc571eef8e28860613e572c09c5cee2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_a99ff53df27b754bf4e8d660a270a31c91d3f00d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_cae9afcfe96a9e89748df979ca58899d972bbf7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_d3faeef5586a2b5fc5fba065b4cfc28a1af195a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.gradle\caches\modules-2\files-2.1\com.google.code.ksoap2-android\ksoap2-j2se\3.6.2\1e84a4687ff6fd6cb12dca3b044d1d1fefbd8347\ksoap2-j2se-3.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1e84a4687ff6fd6cb12dca3b044d1d1fefbd8347">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\ksoap2-j2se-3.6.2_637fff3959923e3dcccefa4fafc7e29ddf441e7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.2.2_ba1fab04bf894d00f6bd33832d1418760c460250\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_d72e84d763326a22d6db98d07bec043dd6b4bd7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.gradle\caches\modules-2\files-2.1\net.sourceforge.kobjects\kobjects-j2me\0.0-SNAPSHOT-20040926-2\9246ca92b16c65114a7fb80b906801e06be95305\kobjects-j2me-0.0-SNAPSHOT-20040926-2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9246ca92b16c65114a7fb80b906801e06be95305">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\kobjects-j2me-0.0-SNAPSHOT-20040926-2_ebae38faa0aea0a59595f925a8055abbd11fc856\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_678701f81fc543e90ee4c60585a8e46ce911fd8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.11\d37cb67277928cf59344b4196af8d9cee1f1a27c\tubesock-0.0.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\tubesock-0.0.11_d3cb2788c897d49baf480f0f02edc0eb8bd968db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_e027ca9aaa3723e8c6b48a9084f06fd76ef91d06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3071a4780091d94737f0a6fb289d4d3d710e6589">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c7b5cf2fd8bfa050357dd911f7b3d6e8fb1f7116\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.1\b494968f6050d494de55dc3ce005e59c7eb40012\rxjava-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b494968f6050d494de55dc3ce005e59c7eb40012">
+        <dex dex="C:\Users\LENOVO\Desktop\v2biddi\BedeTaxialaa\BedeTaxialaa\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.1.1_91238212a2db5449540d590fbfef709e910e4f45\classes.dex" />
+    </item>
+
+</items>

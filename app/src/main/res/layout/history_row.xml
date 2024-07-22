@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@drawable/list_selector"
+    android:layout_height="wrap_content">
+    <LinearLayout android:id="@+id/thumbnail"
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        android:orientation="vertical"
+        android:padding="3dip"
+
+        android:background="@drawable/image_bg"
+        android:weightSum="2"
+        android:layout_marginRight="5dip">
+
+        <ImageView
+            android:id="@+id/list_image"
+            android:layout_width="50dip"
+            android:layout_height="32dp"
+            android:src="@drawable/pickpic"
+            />
+
+        <ImageView
+            android:id="@+id/dest_image"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:src="@drawable/dest"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/thumbnail"
+            android:layout_alignParentStart="true" />
+
+    </LinearLayout>
+
+    <!-- Title Of Song-->
+
+    <!-- Artist Name -->
+
+
+    <!-- Rightend Duration -->
+
+    <!-- Rightend Arrow -->
+
+    <TextView
+        android:id="@+id/title1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ضخعي"
+        android:textAlignment="textStart"
+        android:textColor="#040404"
+        android:typeface="sans"
+        android:textSize="15dip"
+        android:textStyle="bold"
+        android:paddingStart="10dp"
+        android:gravity="center_vertical"
+        android:layout_marginTop="11dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignEnd="@+id/dest_text" />
+
+    <TextView
+        android:id="@+id/artist1h"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#343434"
+        android:textSize="15dip"
+        android:textAlignment="textStart"
+        android:text="@string/PickChoose"
+
+
+        android:paddingStart="100dp"
+        android:layout_below="@+id/title1"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="10dp" />
+
+    <TextView
+        android:id="@+id/dest_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="هاااااي"
+        android:textAlignment="textStart"
+        android:textColor="#040404"
+        android:typeface="sans"
+        android:textSize="15dip"
+        android:textStyle="bold"
+
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:layout_alignBottom="@+id/thumbnail"
+        android:layout_toEndOf="@+id/thumbnail" />
+
+
+</RelativeLayout>

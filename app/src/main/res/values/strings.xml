@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">بدي تاكسي</string>
+    <string name="facebook_app_id" translatable="false">392309951104005</string>
+    <string name="nameField">الاسم</string>
+    <string name="phoneField">رقم الهاتف</string>
+    <string name="goButton">ابدأ</string>
+    <string name="access_token">pk.eyJ1IjoiYWhhbWF5ZWwiLCJhIjoiY2l1dHE1cjg5MDAwYjJ6bTgzbHdnenlnbyJ9.QejfGWzi1CA22sjZ3KDL5Q</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main_">الصفحة الرئيسية</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">"الاعدادات "</string>
+    <string name="title_activity_main">الصفحة الرئيسية</string>
+    <string name="title_activity_cancel">الغاء الطلب</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="action_example">Example action</string>
+    <string name="editProfile">تعديل المعلومات الشخصية</string>
+    <string name="UserName">محمد</string>
+    <string name="Confirm">تأكيد</string>
+    <string name="FeedBack">الرجاء اعطائنا بعض الملاحظات</string>
+    <string name="MoreFeed">للمزيد</string>
+    <string name="CancelMain">لقد قمت بالغاء الطلب , هل يمكنك اخبارنا السبب ؟</string>
+    <string name="Cancel1">وقت الوصول اكثر من المتوقع</string>
+    <string name="Cancel2">غيرت رأيي</string>
+    <string name="Cancel3">لقد قمت باستقلال تاكسي اخر</string>
+    <string name="Biddi">بدي تاكسي</string>
+    <string name="CarType">سكودا</string>
+    <string name="Call">اتصال</string>
+    <string name="FaceBook">التسجيل باستخدام فيسبوك</string>
+    <string name="Mobile">التسجيل باستخدام رقم الهاتف</string>
+    <string name="hint1">"هذه المعلومات ستعرض فقط للسائق "</string>
+    <string name="emailField">البريد الالكتروني</string>
+    <string name="termOfUsesField">بعد ضغطك على زر ابدأ تكون قد وافقت على شروط الاستخدام والخصوصية</string>
+    <string name="Verify1">تم ارسال رمز التحقق الى</string>
+    <string name="Verify2">الرجاء ادخال الرمز</string>
+    <string name="ErorrCode">لم يتم ارسال الرمز ؟</string>
+    <string name="Re">إعادة ارسال</string>
+    <string name="Edit">تعديل</string>
+    <string name="PickChoose">نقطة الالتقاء</string>
+    <string name="History">طلباتي</string>
+    <string name="Home">الرئيسية</string>
+    <string name="support">الدعم</string>
+    <string name="Notifications">الاشعارات</string>
+    <string name="Dest">الوجهة</string>
+    <string name="DestArt">الرجاء اختيار الوجهة</string>
+    <string name="PickArt">الرجاء اختيار نقطة الالتقاء</string>
+    <string name="DialogText">هل انت متأكد انك في</string>
+    <string name="To">وتريد الذهاب الى</string>
+    <string name="DoneBar">الغاء</string>
+</resources>

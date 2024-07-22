@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="250dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="125dp"
+        android:background="#FFCD00"></RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="125dp"
+        android:background="#FFFFFF"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:background="#fffbfb"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:text="@string/UserName"
+            android:layout_centerVertical="true"
+            android:layout_alignParentStart="true" />
+    </RelativeLayout>
+
+
+
+    <com.bedetaxi.bedetaxi.RoundedImageView
+        android:id="@+id/imageView"
+        android:layout_width="100dp"
+        android:adjustViewBounds="true"
+        android:maxWidth="200dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/drawerlogo"
+        android:paddingTop="@dimen/nav_header_vertical_spacing"
+        android:layout_marginStart="25dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:layout_height="100dp"/>
+
+
+</RelativeLayout>
+

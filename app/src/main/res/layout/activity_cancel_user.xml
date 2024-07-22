@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_cancel_user"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.bedetaxi.bedetaxi.CancelUser">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true">
+
+        <TextView
+            android:text="You have canceled the order, Can you tell us why ? "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView8"
+            android:layout_marginTop="100dp"
+            android:layout_marginStart="20dp"
+            android:textStyle="normal|bold"
+            android:textSize="20sp"
+            android:textColor="#3982bf" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:weightSum="3"
+        android:layout_alignParentStart="true">
+
+        <Button
+            android:text="Driver Took To Long"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/buttonshap"
+            android:layout_marginBottom="20dp"
+            android:id="@+id/button6" />
+
+        <Button
+            android:text="Change My Mind"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/buttonshap"
+            android:layout_marginBottom="20dp"
+
+            android:id="@+id/button5" />
+
+        <Button
+            android:text="I've Moved To Other Taxi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/buttonshap"
+            android:id="@+id/button2" />
+    </LinearLayout>
+</RelativeLayout>
